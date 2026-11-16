@@ -19,4 +19,4 @@ C# · .NET · ASP.NET Core · React · TypeScript · SQL Server · PostgreSQL ·
 
 #### Contact
 
-[Website](https://nejatsener.github.io) · [LinkedIn](https://www.linkedin.com/in/nejat-berk-sener/)
+[Website](https://nejatsener.website) · [LinkedIn](https://www.linkedin.com/in/nejat-berk-sener/)
