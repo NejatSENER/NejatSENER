@@ -1,4 +1,4 @@
-### Hi, I'm Berk 👋
+### Hi, I'm Nejat Berk,
 
 Software engineer in Istanbul. I build backend services, integrations and internal tools with **.NET** and **React**, and lately LLM-powered applications.
 
