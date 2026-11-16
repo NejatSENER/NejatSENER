@@ -11,6 +11,7 @@ I spent two years at **Zorlu Holding**, working on internal platforms used by 30
 | [**DocuMind**](https://github.com/NejatSENER/documind) | RAG assistant that answers questions from company documents, with source labels, streaming answers and a measured retrieval eval | .NET 10, pgvector, RabbitMQ, Redis, MongoDB, Semantic Kernel, React |
 | [**Mini Obilet**](https://github.com/NejatSENER/mini-obilet) | Bus ticketing API that never sells the same seat twice, deployed to Azure with Bicep and a passwordless CI/CD pipeline | ASP.NET Core, Azure SQL, Key Vault, Managed Identity, GitHub Actions |
 | [**bunq chat**](https://github.com/NejatSENER/bunq-chat) | REST chat backend with token auth and tests | PHP, Slim 4, SQLite, PHPUnit |
+| [**Local Hair Studio**](https://github.com/NejatSENER/local-hair-studio) | Bilingual website for a curly-hair studio, with video gallery and WhatsApp booking | HTML, CSS, JavaScript |
 | [**Anneannemin Ekmekleri**](https://github.com/NejatSENER/anneannemin-ekmekleri) | Landing and order page for a small home bakery | HTML, CSS, JavaScript |
 
 #### Tools I use most
