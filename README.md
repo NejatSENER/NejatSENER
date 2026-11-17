@@ -9,6 +9,7 @@ I spent two years at **Zorlu Holding**, working on internal platforms used by 30
 | Project | What it is | Stack |
 |---|---|---|
 | [**Flash Sale API**](https://github.com/NejatSENER/flash-sale-api) | Sells exactly N items to thousands of concurrent buyers; four stock strategies compared under load with k6, reservation expiry, idempotent signed payment webhooks | .NET 10, PostgreSQL, Redis (Lua), EF Core, Testcontainers, k6 |
+| [**TranslateFlow**](https://github.com/NejatSENER/translate-flow) | Asynchronous document translation: API, worker and notifier services, transactional outbox, idempotent consumers, token-based cost per user | .NET 10, RabbitMQ, PostgreSQL, Ollama, Docker Compose, Testcontainers |
 | [**DocuMind**](https://github.com/NejatSENER/documind) | RAG assistant that answers questions from company documents, with source labels, streaming answers and a measured retrieval eval | .NET 10, pgvector, RabbitMQ, Redis, MongoDB, Semantic Kernel, React |
 | [**TurkishText**](https://github.com/NejatSENER/TurkishText) | NuGet package for Turkish text that does not depend on the current culture: İ/ı casing, search folding, URL slugs, amounts in words | .NET, netstandard2.0, xUnit, BenchmarkDotNet |
 | [**Mini Obilet**](https://github.com/NejatSENER/mini-obilet) | Bus ticketing API that never sells the same seat twice, deployed to Azure with Bicep and a passwordless CI/CD pipeline | ASP.NET Core, Azure SQL, Key Vault, Managed Identity, GitHub Actions |
